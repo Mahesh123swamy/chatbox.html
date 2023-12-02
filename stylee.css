@@ -7,9 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/792/639/808/pattern-monochrome-telegram-logo-cats-hd-wallpaper-preview.jpg");
-  background-position: cover;
-  background-size: 100%;
+ background-color:black;
 }
 .chatbot-toggler {
   position: fixed;
